@@ -27,10 +27,10 @@ This was one of my early projects where I focused on understanding game logic, h
 ## Project Structure
 
 snake-game/
-│── main.py
-│── highscore.txt
-│── requirements.txt
-│── README.md
+   │── main.py
+   │── highscore.txt
+   │── requirements.txt
+   │── README.md
 
 ---
 
